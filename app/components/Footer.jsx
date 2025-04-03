@@ -16,7 +16,7 @@ import React from 'react'
         border-gray-400 mx-[10%] mt-12 py-6'>
         <p>@ 2025 Joshua Homo. All rights reserved.</p>
         <ul className='flex items-center justify-center gap-10 mt-4 sm:mt-0' >
-            <li><a target='_black' href="https://instagram.com">Github</a></li>
+            <li><a target='_black' href="https://github.com/Joshualaycoh">Github</a></li>
             <li><a target='_black' href="https://instagram.com">LinkedIn</a></li>
             <li><a target='_black' href="https://instagram.com">X</a></li>
         </ul>
