@@ -41,11 +41,14 @@ const About = (isDarkMode) => {
           transition={{duration: 0.6, delay:0.8}}
         className='flex-1 ' >
            <p className='mb-10 max-w-3xl font-Ovo'>
-           Inspired by a friend’s successful transition from manufacturing engineering to web development,
-           I decided to pursue this path. Over the past year, I’ve dedicated myself to learning web 
-           development through Udemy, gaining proficiency in HTML, CSS, JavaScript, and various frameworks. 
-           This journey has fueled my passion for coding and my commitment to growing as a developer 
-           in this fast-evolving field.
+           The compelling narrative of a trusted friend's successful shift from the 
+           structured world of manufacturing to the dynamic realm of web development 
+           sparked within me a profound desire to follow suit. Over the past year, 
+           I've devoted myself to the rigorous study of web development through Udemy,
+           acquiring a strong command of HTML, CSS, JavaScript, and a range of frameworks. 
+           This pursuit has not only fueled my intrinsic fascination with coding, 
+           but also solidified my commitment to continuous growth as a developer in
+           this rapidly evolving field.
            </p>
            <motion.ul 
              initial={{opacity: 0}}

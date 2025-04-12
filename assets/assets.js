@@ -78,108 +78,114 @@ export const assets = {
 
 export const workData = [
     {
+        title: 'Laguna Bazaar',
+        description: 'PHP, MySql',
+        bgImage: '/work-19.png',
+        url:'https://lagunabazaar.infinityfreeapp.com'
+    },
+    {
         title: 'Booknotes',
         description: 'Javascript, NodeJs,Postgres',
-        bgImage: '/work-1.png',
+        bgImage: '/work-18.png',
         url:'https://booknotes-mhqt.onrender.com'
     },
     {
         title: 'Generative-AI-Clone',
         description: 'React',
-        bgImage: '/work-2.png',
+        bgImage: '/work-17.png',
         url:'https://joshualaycoh.github.io/Generative-AI-Clone/'
     },
     {
         title: 'Keeper',
         description: 'NodeJs',
-        bgImage: '/work-3.png',
+        bgImage: '/work-16.png',
         url:'https://keeper-app-fc.netlify.app'
     },
     {
         title: 'Netflix-Clone',
         description: 'React',
-        bgImage: '/work-4.png',
+        bgImage: '/work-15.png',
         url:'https://family-travel-tracker-k8l6.onrender.com'
     },
     {
         title: 'Travel-Tracker',
         description: 'Javascript, NodeJS,Postgres',
-        bgImage: '/work-6.png',
+        bgImage: '/work-14.png',
         url:'https://family-travel-tracker-k8l6.onrender.com'
     },
     {
         title: 'UV-Tracker',
         description: 'Javascript, NodeJS, API',
-        bgImage: '/work-7.png',
+        bgImage: '/work-12.png',
         url:'https://uv-tracker.onrender.com/submit  '
     },
     {
         title: 'Blog-Spot',
         description: 'Javascipt, NodeJS',
-        bgImage: '/work-8.png',
+        bgImage: '/work-11.png',
         url:'https://omni-blogspot.onrender.com/'
     },
     {
         title: 'Pokemon-Pedia',
         description: 'Javascript, API',
-        bgImage: '/work-9.png',
+        bgImage: '/work-10.png',
         url:'https://joshualaycoh.github.io/Pokemon-Pedia/'
     },
     {
         title: 'Calculator',
         description: 'Javascript',
-        bgImage: '/work-10.png',
+        bgImage: '/work-9.png',
         url:'https://joshualaycoh.github.io/Calculator/'
     },
     {
         title: 'TicTacToe',
         description: 'Javascript',
-        bgImage: '/work-11.png',
+        bgImage: '/work-8.png',
         url:'https://joshualaycoh.github.io/TicTacToe/'
     },
     {
         title: 'Simon-Game',
         description: 'Jacascipt, Jquery',
-        bgImage: '/work-12.png',
+        bgImage: '/work-7.png',
         url:'https://joshualaycoh.github.io/Simon-Game/'
     },
     {
         title: 'Drum-Kit',
         description: 'Javascript, Jquery',
-        bgImage: '/work-13.png',
+        bgImage: '/work-6.png',
         url:'https://joshualaycoh.github.io/Drum-Roll/'
     },
     {
         title: 'Dice-Roll',
         description: 'Javascript',
-        bgImage: '/work-14.png',
+        bgImage: '/work-5.png',
         url:'https://joshualaycoh.github.io/Dice-Roll/'
     },
     {
         title: 'Move-It',
         description: 'Bootstrap',
-        bgImage: '/work-15.png',
+        bgImage: '/work-4.png',
         url:'https://joshualaycoh.github.io/Move-It/'
     },
     {
         title: 'Mondrian-Grid',
         description: 'Grid',
-        bgImage: '/work-16.png',
+        bgImage: '/work-3.png',
         url:'https://joshualaycoh.github.io/Mondrian-Grid/'
     },
     {
         title: 'Simple-Porfolio',
         description: 'Javascript, HTML,CSS',
-        bgImage: '/work-17.png',
+        bgImage: '/work-2.png',
         url:'https://joshualaycoh.github.io/Simple-Porfolio/'
     },
     {
         title: 'Tindog',
         description: 'Javascript, HTML,CSS',
-        bgImage: '/work-18.png',
+        bgImage: '/work-1.png',
         url:'https://tin-dog-woof-com.vercel.app/'
     }
-]
+];
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
