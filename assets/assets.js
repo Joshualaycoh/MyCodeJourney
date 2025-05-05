@@ -87,7 +87,7 @@ export const workData = [
         title: 'Booknotes',
         description: 'Javascript, NodeJs,Postgres',
         bgImage: '/work-18.png',
-        url:'https://booknotes-mhqt.onrender.com'
+        url:'https://web-production-9c99.up.railway.app/'
     },
     {
         title: 'Generative-AI-Clone',
